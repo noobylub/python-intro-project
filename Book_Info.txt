@@ -1,0 +1,27 @@
+1:Fantasy-Fiction:Originals:John Smith:£412:05-16-08
+2:Historical-Fiction:Romeo:Gnarly Squad:£300:07-09-16
+3:Non-Fiction:Little Riding Hood:John Smith:£120:02-17-11
+4:Fantasy-Fiction:A new life:Mouse Facebook:£468:12-11-08
+5:Fantasy-Fiction:Juliet:John Smith:£93:10-02-15
+6:Classics:Watch out for aliens:Mouse Facebook:£426:12-27-08
+7:Fantasy-Fiction:Juliet:Adam Smith:£251:03-18-08
+8:Historical-Fiction:Little Riding Hood:Soban Adnan:£133:02-15-18
+9:Non-Fiction:W HY:Adam Smith:£442:09-23-21
+10:Non-Fiction:Juliet:Soban Adnan:£400:07-01-09
+11:Classics:Alien:Bob Marley:£370:10-17-12
+12:Science-Fiction:Originals:Bob Marley:£23:07-06-20
+13:Fantasy:Juliet:Soban Adnan:£496:07-21-18
+14:Science-Fiction:Alien:Soban Adnan:£154:08-15-12
+15:Science-Fiction:Watch out for aliens:Mouse Facebook:£484:09-10-10
+16:Fantasy-Fiction:Juliet:Soban Adnan:£58:03-24-08
+17:Non-Fiction:A new life:Bob Marley:£392:05-30-09
+18:Fantasy:Originals:John Smith:£440:03-30-18
+19:Fantasy:Watch out for aliens:Gnarly Squad:£383:08-21-21
+20:Historical-Fiction:Romeo:Soban Adnan:£474:11-16-12
+21:Classics:Best Title:James:££12:12-14-22
+22:Adam:Classics:A new Age:£123:True
+23:Adam:Classics:A new Age:£123:True
+24::213::£:True
+25:  :213::£:True
+26:    :213:   :£:True
+27:    :213:   :£321:True
